@@ -1,0 +1,6 @@
+modelcontextprotocol @ git+https://github.com/modelcontextprotocol/python-sdk.git#subdirectory=python
+google-generativeai
+ddgs
+uvicorn
+fastapi
+
